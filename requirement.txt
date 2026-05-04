@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+streamlit
+pandas
+=======
+streamlit
+pandas
+>>>>>>> 596c19dcac8ea23428201af29cea5ed5a80e2598
+requests
